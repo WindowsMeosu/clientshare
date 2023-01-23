@@ -11,7 +11,8 @@
 		"url": "https://gitlab.com/milotilo/clientshare.git"
 	},
 	"dependencies": {
-		"irc": "^0.5.2"
+		"irc": "^0.5.2",
+		"steam": "^1.0.0"
 	},
 	"keywords": ["irc, clientshare, internet-relay-chat, milotilo, hexchat, mirc, xchat, libera.chat, freenode"],
 	"author": "MiloTilo",
