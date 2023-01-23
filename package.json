@@ -1,0 +1,19 @@
+{
+	"name": "clientsthare",
+	"description": "",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/milotilo/clientshare.git"
+	},
+	"dependencies": {
+		"irc": "^0.5.2"
+	},
+	"keywords": ["irc, clientshare, internet-relay-chat, milotilo, hexchat, mirc, xchat, libera.chat, freenode"],
+	"author": "MiloTilo",
+	"license": "EPL"
+}
